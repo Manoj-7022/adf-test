@@ -8,7 +8,13 @@
 		"LS_LKUP_MAX_VALUE_password": {
 			"value": ""
 		},
+		"LS_OnPrem_SqlServer_DW_password": {
+			"value": ""
+		},
 		"LS_SQLSERVER_TBLLKUP_password": {
+			"value": ""
+		},
+		"LS_SQLTABLE_Parquet1_accountKey": {
 			"value": ""
 		},
 		"LS_LKUP_MAX_VALUE_properties_typeProperties_server": {
@@ -20,6 +26,15 @@
 		"LS_LKUP_MAX_VALUE_properties_typeProperties_userName": {
 			"value": "manoj"
 		},
+		"LS_OnPrem_SqlServer_DW_properties_typeProperties_server": {
+			"value": "MSI\\SQLEXPRESS02"
+		},
+		"LS_OnPrem_SqlServer_DW_properties_typeProperties_database": {
+			"value": "sqlmigration"
+		},
+		"LS_OnPrem_SqlServer_DW_properties_typeProperties_userName": {
+			"value": "manoj"
+		},
 		"LS_SQLSERVER_TBLLKUP_properties_typeProperties_server": {
 			"value": "MSI\\SQLEXPRESS02"
 		},
@@ -28,6 +43,9 @@
 		},
 		"LS_SQLSERVER_TBLLKUP_properties_typeProperties_userName": {
 			"value": "manoj"
+		},
+		"LS_SQLTABLE_Parquet1_properties_typeProperties_url": {
+			"value": "https://adfsinkstorage.dfs.core.windows.net/"
 		}
 	}
 }
